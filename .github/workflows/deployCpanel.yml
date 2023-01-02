@@ -12,5 +12,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: ftp.mountaff.com
-        username: test@mountaff.com
+        username: test@test.mountaff.com
         password: V&A!Hy)hp7}?
